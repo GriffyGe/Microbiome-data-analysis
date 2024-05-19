@@ -2,7 +2,7 @@ This repo contains some R scripts for analyzing metagenome datasets.
 
 **Table of Contens:**
 
-1. Centered Log-Ratio (`CLR`) Transformation
+1. Centered Log-Ratio ([<u>CLR</u>](./Scripts/CLR.R)) Transformation
 2. Ordination analysis
     - Visualise beta-diversity: [<u>NMDS</u>](./Scripts/NMDS_analysis.R), `PCA`, `PCoA`
     - Compute statistical significance of beta-diversity: `ANOSIM`, `Adonis`
