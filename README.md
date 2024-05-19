@@ -10,4 +10,4 @@ This repo contains some R scripts for analyzing metagenome datasets.
 
 **Example file:**
 
-An example file folder can be found in [<u>here</u>](./Example_file/).
+An example file folder can be found in [<u>here</u>](./Example_files/).
