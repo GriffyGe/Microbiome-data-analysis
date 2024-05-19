@@ -7,3 +7,7 @@ This repo contains some R scripts for analyzing metagenome datasets.
     - Visualise beta-diversity: `NMDS`, `PCA`, `PCoA`
     - Compute statistical significance of beta-diversity: `ANOSIM`, `Adonis`
     - Model the effect of environmental factors on microbiome: `RDA`
+
+**Example file:**
+
+An example file folder can be found in [<u>here</u>](./Example_file/).
