@@ -4,7 +4,7 @@ This repo contains some R scripts for analyzing metagenome datasets.
 
 1. Centered Log-Ratio (`CLR`) Transformation
 2. Ordination analysis
-    - Visualise beta-diversity: [<u>NMDS</u>](.\Scripts\NMDS_analysis.R), `PCA`, `PCoA`
+    - Visualise beta-diversity: [<u>NMDS</u>](./Scripts/NMDS_analysis.R), `PCA`, `PCoA`
     - Compute statistical significance of beta-diversity: `ANOSIM`, `Adonis`
     - Model the effect of environmental factors on microbiome: `RDA`
 
